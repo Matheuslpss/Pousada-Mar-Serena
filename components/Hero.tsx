@@ -6,7 +6,7 @@ export function Hero() {
     <section id="home" className="hero">
       <Image
         className="hero-image"
-        src="https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=2400&q=85"
+        src="/hero-mar-serena.png"
         alt="Varanda elegante de pousada boutique com vista para o mar ao por do sol"
         fill
         priority
